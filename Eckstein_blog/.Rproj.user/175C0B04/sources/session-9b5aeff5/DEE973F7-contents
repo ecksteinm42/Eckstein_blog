@@ -7,3 +7,5 @@
 
 #Posting blog online -
 #In GitHub Desktop - Preferences
+
+#Note also the committing and pushing process described after 10 minutes in the video for how to commit changes
