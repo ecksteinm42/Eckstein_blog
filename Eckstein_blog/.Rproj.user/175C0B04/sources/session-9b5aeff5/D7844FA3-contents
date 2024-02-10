@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website: 
   title: "Matt Eckstein's 695N Course Blog"
